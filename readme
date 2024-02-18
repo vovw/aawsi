@@ -1,0 +1,8 @@
+a simple fast implementation to talk with your fav ai waifu
+
+- how to
+pip3 install -r requirements.txt
+python3 aawsi.py
+
+- deps
+ollama
